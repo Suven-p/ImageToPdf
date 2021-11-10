@@ -1,4 +1,4 @@
-import pdf
+from pdf import pdf
 from pdf.utils import find_files, confirm_files
 
 
